@@ -1,17 +1,19 @@
-DOCTYPE html>
+<!DOCTYPE html>
 <html lang="es">
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css" integrity="sha384-JcKb8q3iqJ61gNV9KGb8thSsNjpSL0n8PARn9HuZOnIxN0hoP+VmmDGMN5t9UJ0Z" crossorigin="anonymous">
+
     <title>Document</title>
 </head>
 <body>
 <div class="text-center" >
 
-<H1> Ejercicio 4 <h1>
+<H1> Ejercicio 5 <h1>
 
-  <h4>    4.Hacer un programa en PHP para ayudar a un trabajador de Postobón a saber cuál será su sueldo semanal, se sabe que, si trabaja 40 horas o menos, se le pagará $20000 por hora,
-       pero si trabaja más de 40 horas entonces las horas extras se le pagarán a $25000 por hora.  </h4>
+  <h4>   . La federación nacional de fútbol necesita de sus servicios como desarrollador de software, para codificar una función en PHP que permita calcular la edad de los jugadores, de acuerdo al año de nacimiento de estos. 
+      Declare la función calcularEdad() y pruebe su funcionamiento. .  </h4>
 
    <br>
   
@@ -47,6 +49,7 @@ $fechaNac=$_REQUEST['fechaNac']; //capturar valor
 </td>
 </tr>
 </table>
+<a href="http://localhost/evaluacionWEB1/index.php" class="btn btn-secondary btn-lg btn-block" role="button" aria-pressed="true">REGRESAR</a>
 
    
   
