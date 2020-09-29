@@ -22,7 +22,7 @@
 <tr>
 <td style="border: 1px dashed #bbbbbb; border-collapse: separate; border-spacing: 1px;">
 <ul>
-
+CALCULADORA
 <form  method="post" action="Punto_1.php"><br>
 Ingrese el  primer numero
       <input type="text" class="form-control" name="numero1"><br>

@@ -23,7 +23,7 @@ Tenga en cuenta que la clasificación del IMC es la siguiente: </h4>
 <tr>
 <td style="border: 1px dashed #bbbbbb; border-collapse: separate; border-spacing: 1px;">
 <ul>
-
+Indice de masa corporal
 <form  method="post" action="Punto_2.php"><br>
 Ingrese su peso
       <input type="text" class="form-control" name="peso"><br>
